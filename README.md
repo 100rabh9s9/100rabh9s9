@@ -1,28 +1,34 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sourabh+S!;🎓+MCA+Student+·+Aspiring+Data+Analyst;🤖+Passionate+about+AI%2C+Data+Mining+%26+Teaching;💡+Exploring+ML%2C+DL%2C+LLMs+%26+Project+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sourabh+S!;🎓+MCA+Student+·+Aspiring+Professor+%7C+Data+Mining+Enthusiast;🤖+Exploring+about+ML%2C+DL%2C+LLMs+%26+Passionate+about+Teaching%2C+Research+%26+Project+Management" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧩 About Me
 
-🎓 Pursuing **Master of Computer Applications (MCA)**  
-💡 Passionate about **Data Mining**, **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)** — currently in learning phase.  
-📚 Deeply interested in **teaching**, mentoring, and sharing technical knowledge with others.  
-🧭 Exploring the world of **Project Management** and leadership fundamentals.  
-☕ I believe in learning by doing — one small project at a time.
+🎓 Pursuing **Master of Computer Applications  Specialized in AI and Data Science (MCA)**  
+💡 My primary areas of interest include **Data Mining**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Large Language Models (LLMs)** — fields I’m actively learning and experimenting with.   
+📚 I’m deeply **passionate about teaching and mentorship**, with a long-term goal of becoming an **educator and researcher** who bridges academic learning with real-world technology.  
+📊 Beyond technical learning, I’m also exploring **Project Management**, **educational analytics**, and **AI-driven decision support systems** — aiming to blend leadership and analytical thinking.    
+☕ I strongly believe that learning is a lifelong process — and **teaching is one of the most effective ways to master any skill**.
 
 ---
 
 ## 🎯 Goals
 
-- Build a strong foundation in **AI, Data Mining, and ML-based analytics**.  
-- Gain practical experience through **internships and research projects**.  
-- Develop my skills in **Project Management and Academic Mentoring**.  
-- Eventually combine **technical expertise with teaching passion** to help others learn.
+### 🩵 Short-Term Goals
+- Strengthen my foundation in **AI, Data Mining, and Machine Learning**.  
+- Work on small-scale academic and research-oriented projects.  
+- Gain **internship experience** in AI, Data Analytics, or EdTech domains.  
+- Continue improving my **communication and presentation** skills for teaching.  
 
----
+### 💠 Long-Term Goals
+- Become an **educator and mentor** who helps students understand and apply AI concepts.  
+- Contribute to **research** in **Machine Learning**, **Deep Learning**, and **AI for Education**.  
+- Lead or collaborate on **AI-driven projects** that improve real-world learning systems.  
+- Merge **technical expertise with academic leadership** to create long-lasting educational impact.
+
 
 ## ⚙️ Skills & Tech Stack
 
@@ -33,7 +39,7 @@
 **Programming:** Python 🐍 | C | C++ | Java  
 **Core Areas:** Data Mining | Machine Learning | Deep Learning | LLMs  
 **Tools:** Pandas | NumPy | Matplotlib | Scikit-learn | Excel  
-**Others:** Git | GitHub | SQL | Project Documentation | Team Collaboration  
+**Others:**  Teaching| GitHub | SQL | Project Documentation | Team Collaboration  
 
 ---
 
@@ -55,22 +61,31 @@
 
 ## 🚀 I’m Currently
 
-- 🌱 Learning **Deep Learning** and **LLM (Large Language Model)** fundamentals.  
-- 📘 Practicing **Data Mining and Machine Learning** model building.  
-- 🧑‍🏫 Improving **technical explanation and teaching skills**.  
-- 💼 Exploring **internship opportunities** to gain real-world experience.  
-- 🧠 Reading about **Project Management (Agile, Scrum basics)** to build leadership perspective.
+- 🐍 Strengthening my foundation in **Python programming**, focusing on libraries for AI and Data Science such as *NumPy, Pandas, and Scikit-learn*.
+- 🌱 Deepening my understanding of **Deep Learning** and **Large Language Models (LLMs)** fundamentals.  
+- 📘 Practicing **Data Mining** and **Machine Learning** model development using real-world datasets.  
+- 🧑‍🏫 Enhancing my **teaching and communication skills** by simplifying technical concepts for peers.  
+- 💼 Actively exploring **internship opportunities** in **AI**, **Data Science**, or **Analytics** domains to gain practical exposure.  
+- 🧠 Learning the essentials of **Project Management** — including **Agile** and **Scrum** — to build leadership and coordination skills.
 
----
+  ## 🧭 Learning Roadmap
 
-## 🤝 I’m Open To
+- ✅ Python Foundations (Syntax, Data Structures, OOP)
+- 🔄 Data Handling with Pandas & NumPy
+- 🔍 Data Mining & Machine Learning Basics
+- 📈 Visualization with Matplotlib & Seaborn  
+- 🧠 Deep Learning & LLMs (understanding concepts)
+- 🎯 Future Goal → Learn Power BI & Advanced Analytics Tools
 
-- Collaborating on **AI / ML / Data Mining** academic projects.  
-- Joining **internships or research assistant roles** in AI or Analytics.  
-- Teaching or mentoring beginners in programming and data fundamentals.  
-- Exploring opportunities in **Project Management for tech-based teams**.
 
----
+
+## 🤝 Open To
+
+- 🧑‍🏫 **Teaching and Mentorship** — sharing foundational knowledge in Python, AI, Data Mining and other MCA core components like **DAA**, **Java**, **DBMS**, and **Software Engineering**.  
+- 🧠 **Internships or Research Roles** related to AI, ML, or beginner-level **Data Analytics**.  
+- 🧩 **Project Coordination / Management** opportunities that combine teamwork and analytical thinking.  
+- 🐍 **Python Development or Learning Projects** — building confidence with libraries like Pandas, NumPy, and Matplotlib.  
+
 
 ## 🌐 Socials
 
@@ -95,4 +110,6 @@
 
 ---
 
-<h3 align="center">⭐ “Teaching is the best way to learn — and learning never stops.” ⭐</h3>
+<h3 align="center">“I teach machines to learn — and in doing so, I keep learning myself.”</h3>
+<h4 align="center">Learning drives my teaching; teaching defines my learning.</h4>
+
