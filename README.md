@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Sourabh+S!;🎓+MCA+Student+(AI+and+Data+Science)+Specialization;🧑‍🏫+Aspiring+Professor+%7C+Data+Mining+Enthusiast;🤖+Exploring+ML%2C+DL%2C+and+LLMs;💡+Passionate+about+Teaching%2C+Research%2C+and+Project+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Sourabh+S!;🎓+MCA+(AI+%26+Data+Science)+Student;🧑‍🏫+Aspiring+Professor+%7C+Data+Mining+Enthusiast;🤖+Exploring+ML%2C+DL%2C+and+LLMs;💡+Passionate+about+Teaching%2C+Research%2C+and+Project+Management" alt="Typing SVG" />
 </p>
+
 
 
 
@@ -67,7 +68,7 @@
 - 🌱 Deepening my understanding of **Deep Learning** and **Large Language Models (LLMs)** fundamentals.  
 - 📘 Practicing **Data Mining** and **Machine Learning** model development using real-world datasets.  
 - 🧑‍🏫 Enhancing my **teaching and communication skills** by simplifying technical concepts for peers.  
-- 💼 Actively exploring **internship opportunities** in **AI**, **Data Science**, or **Analytics** domains to gain practical exposure.  
+- 💼 Actively exploring **internship opportunities** in **AI/ML**, **Data Science**, or **Analytics** domains to gain practical exposure.  
 - 🧠 Learning the essentials of **Project Management** — including **Agile** and **Scrum** — to build leadership and coordination skills.
 
   ## 🧭 Learning Roadmap
@@ -92,7 +93,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/" target="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:100rabh9s9@gmail.com">
