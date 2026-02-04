@@ -48,10 +48,14 @@
 
 ## 📊 GitHub Stack
 <p align="center">
-  <img src="https://img.shields.io/github/followers/100rabh9s9?style=for-the-badge&logo=github&color=0d1117&label=Followers" />
-  <img src="https://img.shields.io/github/stars/100rabh9s9?style=for-the-badge&logo=github&color=0d1117&label=Total%20Stars" />
-  <img src="https://komarev.com/ghpvc/?username=100rabh9s9&style=for-the-badge&color=blueviolet" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=100rabh9s9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=100rabh9s9&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800&hide_border=true" height="165"/>
+</p>
+
 
 
 
