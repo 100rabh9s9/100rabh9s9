@@ -48,12 +48,15 @@
 
 ## 📊 GitHub Stack
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=100rabh9s9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=100rabh9s9&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh9s9&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
