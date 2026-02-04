@@ -49,16 +49,14 @@
 ## 📊 GitHub Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=100rabh9s9&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh9s9&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
