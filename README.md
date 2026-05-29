@@ -168,11 +168,6 @@ I am actively interested in opportunities across **universities**, **research la
 
 
 ---
-
-## 📊 GitHub — Learning Experiments & Study Notes
-
-*My GitHub is a honest record of a student learning in public — small experiments, concept notebooks, and study notes. Not a polished software portfolio, but a transparent log of progress.*
-
 ## 📊 GitHub — Research Experiments & Learning Journey
 
 *My GitHub documents research-oriented experiments, study notes, concept explorations, and educational resources in AI, Machine Learning, NLP, and Data Science.*
@@ -184,7 +179,6 @@ I am actively interested in opportunities across **universities**, **research la
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=react)
 
 </div>
-
 
 ---
 
