@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Sourabh+S+%7C+MCA+(AI+%26+Data+Science);Aspiring+Researcher+%7C+Educator+%7C+Academic;AI+%7C+Machine+Learning+%7C+NLP+%7C+Data+Mining;Teaching+%7C+Scholarship+%7C+Inquiry" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&lines=Sourabh+S+%7C+MCA+(AI+%26+Data+Science);Fresher+Researcher+%7C+Aspiring+Educator+%7C+Lifelong+Learner;Machine+Learning+%7C+NLP+%7C+Deep+Learning+%7C+AIEd;Academic+%7C+R%26D+Aspirant+%7C+PhD+Seeker" alt="Typing SVG" />
 
 <br/>
 
@@ -9,155 +9,168 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:100rabh9s9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/100rabh9s9)
+[![Email](https://img.shields.io/badge/Email-100rabh9s9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:100rabh9s9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100rabh9s9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/100rabh9s9)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🧑‍🎓 Academic Profile
+## 🧑‍🎓 About Me
 
-I am **Sourabh S**, a second-year postgraduate student in the **Master of Computer Applications (MCA)** programme, specializing in **Artificial Intelligence and Data Science**. My identity within computing is not that of a software engineer or competitive programmer — it is that of a **scholar, an educator, and an inquirer**. I am drawn to ideas, their structure, explaining them, and understanding their implications.
+I am **Sourabh S**, a second-year **MCA student specializing in Artificial Intelligence and Data Science**, and an early-stage researcher developing a strong foundation in AI and Data Science research.
 
-My academic interests centre on the theoretical foundations and human-facing applications of **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **AI for Education (AIEd)** — areas where principled investigation can yield both scientific insight and meaningful societal benefit.
+My interests lie at the intersection of **research, teaching, and applied AI**. I am particularly drawn to understanding how machines learn, why models behave the way they do, how AI systems can be made interpretable and trustworthy, and how intelligent technologies can be designed to create meaningful impact in education and society.
 
-I use programming as an **instrument of research** — to prototype ideas, run experiments, and demonstrate concepts — not as an end in itself. My core strengths lie in **conceptual understanding, academic communication, teaching, and research inquiry**.
+As a developing researcher, I am actively building my foundations through structured study, engagement with primary literature, small-scale experimental work, and continuous exploration of contemporary AI research. What I bring is **curiosity, intellectual honesty, analytical thinking, a passion for teaching and communication, and a long-term commitment to both academic scholarship and AI-driven innovation**.
 
-I am actively seeking **research internships**, **teaching assistantships**, and **mentored academic collaborations** within institutions and R&D organizations that value curiosity, scholarship, and the advancement of knowledge.
+I am actively seeking **research internships, junior research opportunities, teaching assistantships, and R&D-oriented collaborations** where I can contribute meaningfully, learn under mentorship, and grow as both a researcher and educator.
 
----
-
-## 🔬 Research Interests
-
-| Domain | Specific Focus Areas |
-|--------|----------------------|
-| **Machine Learning** | Supervised & Unsupervised Learning, Model Interpretability, Bias-Variance Analysis, Feature Engineering |
-| **Deep Learning** | Feedforward Networks, CNNs, RNNs, Attention Mechanisms, Transformer Architectures |
-| **Natural Language Processing** | Text Classification, Semantic Embeddings, Named Entity Recognition, Sentiment Analysis |
-| **Large Language Models (LLMs)** | Fine-tuning Strategies, Retrieval-Augmented Generation (RAG), Prompt Engineering, LLM Evaluation Frameworks |
-| **Data Mining** | Pattern Recognition, Association Rule Learning, Clustering Algorithms, Anomaly Detection |
-| **AI for Education (AIEd)** | Intelligent Tutoring Systems, Learner Analytics, Adaptive Pedagogy, Knowledge Tracing |
-| **Explainable AI (XAI)** | Model Transparency, Interpretability Methods (SHAP, LIME), Ethical AI Deployment |
 
 ---
 
-## 🎯 Academic Objectives & Research Vision
+## 🔬 Research Interests *(Areas I Am Studying & Exploring)*
 
-### Near-Term Goals *(2024 – 2025)*
-- Author or co-author a **peer-reviewed research paper** targeting national/international venues such as IJCAI, NeurIPS, ICML, or IEEE-affiliated conferences
-- Secure a **research internship** or junior research associate role within an AI/ML R&D laboratory or academic department
-- Develop a portfolio of **reproducible, well-documented research artefacts** in ML, DL, and NLP — complete with methodology, datasets, and reproducibility notes
-- Present research findings at **academic seminars, poster sessions, or technical workshops**
-- Complete a rigorous **literature survey** in a chosen research niche as a precursor to original contribution
+| Domain                           | Current Areas of Interest                                                                          |
+| -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Machine Learning**             | How models learn from data, supervised & unsupervised learning, model evaluation, interpretability |
+| **Deep Learning**                | Neural networks, CNNs, RNNs, Attention mechanisms, Transformer architectures                       |
+| **Natural Language Processing**  | Text analytics, semantic understanding, sentiment analysis, information extraction                 |
+| **Large Language Models (LLMs)** | Prompt engineering, Retrieval-Augmented Generation (RAG), fine-tuning concepts, LLM evaluation     |
+| **Explainable AI (XAI)**         | Model transparency, interpretability methods, SHAP, LIME, responsible AI                           |
+| **Data Mining**                  | Pattern discovery, clustering, association rule learning, anomaly detection                        |
+| **Research Methodology**         | Literature reviews, experimental design, academic writing, reproducible research                   |
 
-### Long-Term Vision *(Post-2025)*
-- Pursue a **Ph.D. in Artificial Intelligence, Machine Learning, or Computational Science** at a leading research institution
-- Contribute original, reproducible, and peer-validated research to the fields of **Deep Learning, NLP, and AI for Education**
-- Establish a career as a **Professor-Researcher**, combining active scholarship with mentorship of the next generation of AI researchers
-- Advance the discourse on **ethical, explainable, and educationally-applied AI** through publications, public scholarship, and institutional collaboration
+> *These represent areas I am actively studying and exploring as I continue developing my research and technical expertise in Artificial Intelligence and Data Science.*
+
+> *These are domains I am actively studying, not areas of established expertise. I am a motivated learner building toward research contribution.*
 
 ---
 
-## ⚙️ Research & Academic Toolkit
+## 🎯 Goals — Academic & Professional Development
 
-Programming is, for me, a **research utility** — a means of running experiments, processing data, and building demonstrations that serve inquiry and pedagogy. My technical familiarity is oriented toward this purpose.
+### Near-Term *(2026–2027)*
 
-### Primary Research Language
+* Complete my first structured **literature survey** in a focused area such Deep Learning / LLM  or Explainable AI (XAI)
+* Secure a **research internship, junior research associate position, or research mentorship opportunity** within an active AI research environment
+* Contribute to a **research paper, technical report, or scholarly publication** to gain first-hand experience with the research process
+* Build a portfolio of **documented experiments, study notes, and exploratory projects** in Machine Learning, NLP, and AI
+* Participate in **academic seminars, workshops, conferences, and paper reading groups** to deepen engagement with the research community
+
+### Long-Term Vision
+
+* Pursue a **Ph.D. in Artificial Intelligence, Machine Learning, NLP, or a related field**
+* Establish a career as a **Researcher-Educator**, combining research, teaching, mentorship, and knowledge creation
+* Publish original, reproducible, and impactful research that advances the understanding and application of AI
+* Contribute to the development of **responsible, explainable, and human-centered AI systems** across both academia and industry R&D
+* Bridge the gap between **scholarly research and real-world innovation**, translating research outcomes into meaningful societal impact
+
+
+---
+
+## ⚙️ Skills & Tools *(Honest Assessment)*
+
+### What I Work With
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-*I leverage programming as a research tool for experimentation, model development, reproducible evaluation, and scientific investigation..*
-
-### Data Analysis & ML Experimentation
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Academic & Documentation Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### Actively Exploring for Research Use
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+*I use Python for learning, data handling, and small experiments — primarily in Jupyter notebooks. My proficiency is at a foundational-to-intermediate level, actively growing.*
+
+### Currently Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Core Academic Competencies
-| Competency | Description |
-|------------|-------------|
-| 📖 **Research Paper Reading** | Structured reading, annotation, and critique of primary literature |
-| ✍️ **Academic Writing** | Report writing, literature surveys, concept documentation |
-| 🗣️ **Teaching & Explanation** | Simplifying complex AI/CS concepts for learners at various levels |
-| 📊 **Data Interpretation** | Reading results, understanding evaluation metrics, drawing conclusions |
-| 🧩 **Conceptual Analysis** | Breaking down theoretical frameworks in ML, DL, and NLP |
+### Where My Strengths Lie
+
+| Strength                                  | Description                                                                                                           |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 📖 **Research Literature Engagement**     | Reading, annotating, and synthesizing AI/ML research papers to build understanding and identify research directions   |
+| 🗣️ **Teaching & Knowledge Sharing**      | Explaining complex concepts in a structured and accessible manner through discussions, study notes, and peer learning |
+| ✍️ **Technical & Academic Communication** | Writing clear documentation, concept summaries, literature reviews, and research-oriented content                     |
+| 🧩 **Conceptual & Analytical Thinking**   | Focusing on understanding underlying principles, assumptions, and reasoning rather than memorizing procedures         |
+| 📊 **Data & Result Interpretation**       | Analyzing experimental outcomes, evaluation metrics, and model behaviour to derive meaningful insights                |
+| 🔍 **Curiosity-Driven Learning**          | Continuously exploring new ideas, research domains, and emerging developments in AI and Data Science                  |
 
 ---
 
-## 📚 Relevant Graduate Coursework
+## 📚 Graduate Coursework
 
-| AI & Data Science | Research & Scholarship | Foundational Theory |
-|-------------------|----------------------|---------------------|
-| Machine Learning Fundamentals | Research Methodology | Probability & Statistics |
-| Deep Learning Concepts | Technical & Academic Writing | Linear Algebra for AI |
-| Data Mining & Warehousing | Scientific Paper Reading & Critique | Discrete Mathematics |
-| Natural Language Processing | Ethical AI & Responsible Computing | Database Management Systems |
-| Big Data & Analytics | Statistical Methods for Data Science | Software Engineering Concepts |
-| Computer Vision Foundations | Citation Practice & Literature Review | Information Retrieval |
+| AI & Data Science                | Research & Communication            | Mathematical & Computational Foundations |
+| -------------------------------- | ----------------------------------- | ---------------------------------------- |
+| Machine Learning Fundamentals    | Research Methodology                | Probability & Statistics                 |
+| Deep Learning Concepts           | Technical & Academic Writing        | Statistical Methods for Data Science     |
+| Natural Language Processing      | Scientific Paper Reading & Analysis | Linear Algebra                           |
+| Data Mining & Warehousing        | Literature Review Practice          | Information Retrieval                    |
+| Big Data & Analytics             | Ethical AI & Responsible Computing  | Database Management Systems              |
+| Computer Vision *(Introductory)* | Knowledge Representation            | Discrete Mathematics                     |
+
 
 ---
 
-## 🛠️ Current Academic Activity
+## 🛠️ What I Am Currently Working On
 
 ```text
-[ACTIVE]   Conducting a structured literature survey on Transformer architectures
-           and emergent capabilities in Large Language Models
+[RESEARCH]  Reading and annotating foundational AI/ML papers to strengthen
+            my understanding of modern machine learning and deep learning:
 
-[ACTIVE]   Reading and annotating seminal AI/ML papers:
-           — "Attention Is All You Need" (Vaswani et al., 2017)
-           — "BERT: Pre-training of Deep Bidirectional Transformers" (Devlin et al., 2019)
-           — "A Few Useful Things to Know About Machine Learning" (Domingos, 2012)
+            — "Attention Is All You Need" (Vaswani et al., 2017)
+            — "BERT: Pre-training of Deep Bidirectional Transformers"
+              (Devlin et al., 2019)
+            — "A Few Useful Things to Know About Machine Learning"
+              (Domingos, 2012)
 
-[ACTIVE]   Developing instructional materials — structured concept notes, visual
-           explainers, and simplified guides — to support peer learning and
-           future Teaching Assistantship responsibilities
+[EXPERIMENTING] Applying Machine Learning concepts through small-scale
+                experiments in Jupyter using Scikit-learn and public datasets
 
-[ACTIVE]   Running small-scale ML experiments using Scikit-learn and Jupyter
-           to validate conceptual understanding from coursework and papers
+[BUILDING]      Developing a collection of concept notes, visual explainers,
+                and study resources for AI, ML, and Data Science topics
 
-[PLANNED]  Identifying a focused research problem in AIEd or Explainable ML
-           suitable for a first academic paper or conference submission
+[EXPLORING]     AI for Education (AIEd) and Explainable AI (XAI) as potential
+                long-term research directions
 
-[PLANNED]  Drafting a research proposal document as preparation for
-           PhD programme applications and research fellowship inquiries
+[WRITING]       Preparing for a structured literature survey as a first
+                formal research-oriented project
+
+[PREPARING]     Building the academic foundations required for future
+                research opportunities, graduate study, and PhD applications
 ```
 
----
-
-## 🤝 Open to Collaboration & Engagement
-
-I welcome the following opportunities from academic institutions, R&D laboratories, and educational organizations:
-
-| Opportunity | Description |
-|-------------|-------------|
-| 🔬 **Research Internship / Junior RA** | Supporting ongoing research in AI/ML/NLP labs or academic departments |
-| 📝 **Co-authorship & Paper Collaboration** | Contributing to literature surveys, experiments, or academic writing toward publication |
-| 🧑‍🏫 **Teaching Assistantship** | Supporting instruction in ML, AI fundamentals, Data Mining, DBMS, or related subjects |
-| 🏛️ **Academic Mentorship** | Guidance from faculty or senior researchers on research methods and scholarly development |
-| 🎤 **Seminars, Paper Reading Groups & Workshops** | Participating in or presenting at academic forums and knowledge-sharing sessions |
-| 📘 **Curriculum & Content Development** | Developing learning materials, concept explainers, or study resources for AI/DS courses |
 
 ---
 
-## 📊 GitHub — Research & Academic Experiments
+## 🤝 Open to Opportunities
 
-*This repository is a record of my learning journey — small experiments, concept explorations, and study notes — not a professional software portfolio. I use GitHub to document my research process and share educational resources.*
+## 🤝 Open to Opportunities
+
+I am actively interested in opportunities across **universities**, **research laboratories**, and **industry R&D environments** where I can contribute, learn, and grow as an AI researcher and educator.
+
+| Role                                               | What I Bring                                                                                                                                                |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔬 **Research Intern / Junior Research Associate** | Exposure to literature review, research documentation, experimental workflows, and a strong willingness to learn within collaborative research environments |
+| 🧑‍🏫 **Teaching Assistant**                       | Ability to explain complex concepts clearly, create study resources, and support learning in AI, Machine Learning, and Data Science                         |
+| 📝 **Research Collaborator**                       | Support for literature surveys, technical writing, experiment tracking, and research communication                                                          |
+| 📘 **Content & Curriculum Development**            | Creating concept notes, educational resources, structured study guides, and learning materials for AI/DS topics                                             |
+| 🎤 **Seminars & Paper Reading Groups**             | Presenting research summaries, participating in technical discussions, and engaging with emerging developments in AI                                        |
+| 🏛️ **Research Mentee**                            | Seeking mentorship from faculty members, researchers, and practitioners while contributing with curiosity, commitment, and professionalism                  |
+
+
+---
+
+## 📊 GitHub — Learning Experiments & Study Notes
+
+*My GitHub is a honest record of a student learning in public — small experiments, concept notebooks, and study notes. Not a polished software portfolio, but a transparent log of progress.*
 
 <div align="center">
 
@@ -169,62 +182,60 @@ I welcome the following opportunities from academic institutions, R&D laboratori
 
 ---
 
-## 🗺️ Academic & Research Development Roadmap
+## 🗺️ Learning & Research Roadmap
 
 ```
 COMPLETED
-  ✅  Python for Research — data handling, scripting, Jupyter-based experimentation
-  ✅  Scientific Python Stack — NumPy, Pandas, Matplotlib, Seaborn
-  ✅  ML Fundamentals — core algorithms, model evaluation, bias-variance tradeoff
-  ✅  Research Paper Reading — beginning structured annotation of primary literature
+  ✅  Python basics — scripting, data structures, Jupyter workflows
+  ✅  Core data libraries — NumPy, Pandas, Matplotlib, Seaborn
+  ✅  ML fundamentals — key algorithms, evaluation metrics, conceptual understanding
+  ✅  Started reading primary AI/ML research papers with annotation
 
 IN PROGRESS
-  🔄  Deep Learning — neural network theory, CNNs, RNNs, Attention & Transformers
-  🔄  NLP & LLMs — embeddings, fine-tuning strategies, RAG, evaluation frameworks
-  🔄  Academic Writing — structuring arguments, citing literature, report composition
-  🔄  Teaching Portfolio — concept notes, explainers, and study guides for peers
+  🔄  Deep Learning — theory of neural nets, CNNs, RNNs, Attention, Transformers
+  🔄  NLP & LLMs — word embeddings, language model concepts, intro to fine-tuning
+  🔄  Academic writing — structure, argumentation, citations, literature synthesis
+  🔄  Teaching portfolio — notes, explainers, concept guides for peer learning
 
 UPCOMING
-  ⬜  LaTeX & Citation Management — Zotero, IEEE/ACM formatting, BibTeX
-  ⬜  Explainable AI — SHAP, LIME, interpretability for research transparency
-  ⬜  Hugging Face Ecosystem — using pre-trained models for NLP research tasks
-  ⬜  First Research Paper — literature survey → problem identification → submission
-  ⬜  PhD Preparation — Statement of Purpose, research proposal, academic references
+  ⬜  LaTeX — for academic paper writing and formal documentation
+  ⬜  Explainable AI — SHAP, LIME, interpretability concepts
+  ⬜  Hugging Face & PyTorch — for hands-on NLP and DL experimentation
+  ⬜  First research output — structured literature survey or assisted paper
+  ⬜  PhD preparation — SOP writing, research proposal, supervisor outreach
 ```
 
 ---
 
-## 💡 Research Philosophy
+## 💡 Philosophy
 
 > *"Research is to see what everybody has seen and to think what nobody has thought."*
 > — Albert Szent-Györgyi
 
-I hold that **rigorous research and effective pedagogy are not competing endeavours — they are mutually constitutive**. The discipline of communicating complex ideas clearly, which teaching demands, deepens one's own understanding of those ideas; and original research provides the practitioner with the intellectual honesty and precision that students deserve from their instructors.
+I am at the beginning of a long road — and I am at peace with that. I believe the most important quality in a researcher is not what they already know, but the **clarity of their direction, the honesty of their self-assessment, and the depth of their commitment to learning**.
 
-My commitment as a researcher-educator is to produce work that is:
-- **Methodologically sound** — reproducible, transparently evaluated, and honestly reported
-- **Intellectually accessible** — communicated with precision and clarity, not obfuscation
-- **Socially purposeful** — oriented toward applications that are explainable, equitable, and ethically grounded
+I am drawn to AI because it sits at the intersection of science, technology, and human understanding. I care about understanding how intelligent systems work, communicating complex ideas clearly, and applying knowledge in ways that create meaningful impact. Whether through research, experimentation, teaching, or collaboration, my goal is to contribute to work that is rigorous, transparent, and genuinely useful.
+
+My commitment is to grow **methodically, honestly, and with purpose** — one paper, one experiment, and one explained concept at a time.
+
 
 ---
 
-## 📬 Contact & Professional Profiles
+## 📬 Contact & Profiles
 
 | Channel | Details |
 |---------|---------|
 | 📧 **Email** | [100rabh9s9@gmail.com](mailto:100rabh9s9@gmail.com) |
 | 💼 **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/) |
 | 🐙 **GitHub** | [github.com/100rabh9s9](https://github.com/100rabh9s9) |
-| 🔬 **ResearchGate** | [ResearchGate Profile](https://www.researchgate.net/) *(update with your profile link)* |
-| 📄 **Google Scholar** | *(add upon first publication)* |
 
 ---
 
 <div align="center">
 
-*"I teach machines to learn — and in doing so, I keep learning myself."*
+*"I teach machines to learn — and in doing so, I never stop learning myself."*
 
-**Learning sustains my curiosity. Research defines my contribution. Teaching fulfils my purpose.**
+**Learning sustains my curiosity. Research defines my direction. Teaching fulfils my purpose.**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=100rabh9s9&color=1e90ff&style=flat-square&label=Profile+Views)
 
