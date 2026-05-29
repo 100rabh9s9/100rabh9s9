@@ -155,8 +155,6 @@ I am actively seeking **research internships, junior research opportunities, tea
 
 ## 🤝 Open to Opportunities
 
-## 🤝 Open to Opportunities
-
 I am actively interested in opportunities across **universities**, **research laboratories**, and **industry R&D environments** where I can contribute, learn, and grow as an AI researcher and educator.
 
 | Role                                               | What I Bring                                                                                                                                                |
@@ -175,20 +173,16 @@ I am actively interested in opportunities across **universities**, **research la
 
 *My GitHub is a honest record of a student learning in public — small experiments, concept notebooks, and study notes. Not a polished software portfolio, but a transparent log of progress.*
 
+## 📊 GitHub — Research Experiments & Learning Journey
+
+*My GitHub documents research-oriented experiments, study notes, concept explorations, and educational resources in AI, Machine Learning, NLP, and Data Science.*
+
 <div align="center">
-<!-- Activity Graph — full width, visually striking -->
-<br/>
-<!-- Stats + Languages side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=react&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true&hide=stars&hide_rank=false" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=react&bg_color=0d1117&title_color=1E90FF&text_color=c9d1d9&hide_border=true" height="165"/>
-<br/><br/>
-<!-- Snake animation — commit history as a snake game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/100rabh9s9/100rabh9s9/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/100rabh9s9/100rabh9s9/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/100rabh9s9/100rabh9s9/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=react)
+
 </div>
 
 
