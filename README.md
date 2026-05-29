@@ -1,4 +1,5 @@
 <div align="center">
+<h1 align="center">Hi, I'm SOURABH S </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&lines=Sourabh+S+%7C+MCA+(AI+%26+Data+Science);Fresher+Researcher+%7C+Aspiring+Educator+%7C+Lifelong+Learner;Machine+Learning+%7C+NLP+%7C+Deep+Learning+%7C+AIEd;Academic+%7C+R%26D+Aspirant+%7C+PhD+Seeker" alt="Typing SVG" />
 
@@ -11,8 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-100rabh9s9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:100rabh9s9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100rabh9s9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/100rabh9s9)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+
 
 </div>
 
@@ -53,11 +53,12 @@ I am actively seeking **research internships, junior research opportunities, tea
 
 ### Near-Term *(2026–2027)*
 
-* Complete my first structured **literature survey** in a focused area such Deep Learning / LLM  or Explainable AI (XAI)
-* Secure a **research internship, junior research associate position, or research mentorship opportunity** within an active AI research environment
-* Contribute to a **research paper, technical report, or scholarly publication** to gain first-hand experience with the research process
-* Build a portfolio of **documented experiments, study notes, and exploratory projects** in Machine Learning, NLP, and AI
-* Participate in **academic seminars, workshops, conferences, and paper reading groups** to deepen engagement with the research community
+* Complete my first structured **literature survey** in a focused area such as **Deep Learning, Large Language Models (LLMs), or Explainable AI (XAI)**
+* Secure a **research internship, Junior Research Associate position, or AI R&D opportunity** within an active research and innovation environment
+* Contribute to a **research paper, technical report, or scholarly publication** while gaining practical experience in the research lifecycle
+* Build a portfolio of **research-oriented experiments, exploratory AI projects, and technical study notes** in Machine Learning, NLP, and Generative AI
+* Strengthen my skills in **AI model development, experimentation, evaluation, and research communication**
+* Participate in **seminars, workshops, conferences, hackathons, and paper reading groups** to engage with both academic and industry communities
 
 ### Long-Term Vision
 
@@ -94,14 +95,16 @@ I am actively seeking **research internships, junior research opportunities, tea
 
 ### Where My Strengths Lie
 
-| Strength                                  | Description                                                                                                           |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 📖 **Research Literature Engagement**     | Reading, annotating, and synthesizing AI/ML research papers to build understanding and identify research directions   |
-| 🗣️ **Teaching & Knowledge Sharing**      | Explaining complex concepts in a structured and accessible manner through discussions, study notes, and peer learning |
-| ✍️ **Technical & Academic Communication** | Writing clear documentation, concept summaries, literature reviews, and research-oriented content                     |
-| 🧩 **Conceptual & Analytical Thinking**   | Focusing on understanding underlying principles, assumptions, and reasoning rather than memorizing procedures         |
-| 📊 **Data & Result Interpretation**       | Analyzing experimental outcomes, evaluation metrics, and model behaviour to derive meaningful insights                |
-| 🔍 **Curiosity-Driven Learning**          | Continuously exploring new ideas, research domains, and emerging developments in AI and Data Science                  |
+| Strength                                  | Description                                                                                                                  |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 📖 **Research Literature Engagement**     | Reading, annotating, and synthesizing AI/ML research papers to build understanding and identify research directions          |
+| 🗣️ **Teaching & Knowledge Sharing**      | Explaining complex concepts in a structured and accessible manner through discussions, study notes, and peer learning        |
+| ✍️ **Technical & Academic Communication** | Writing clear documentation, concept summaries, literature reviews, and research-oriented content                            |
+| 🧩 **Conceptual & Analytical Thinking**   | Focusing on understanding underlying principles, assumptions, and reasoning rather than memorizing procedures                |
+| 📊 **Data & Result Interpretation**       | Analyzing experimental outcomes, evaluation metrics, and model behaviour to derive meaningful insights                       |
+| 🧪 **Research & Experimentation**         | Applying theoretical concepts through exploratory experiments, model evaluation, and hands-on investigation of AI techniques |
+| 🔍 **Curiosity-Driven Learning**          | Continuously exploring new ideas, research domains, and emerging developments in AI and Data Science                         |
+
 
 ---
 
@@ -173,12 +176,21 @@ I am actively interested in opportunities across **universities**, **research la
 *My GitHub is a honest record of a student learning in public — small experiments, concept notebooks, and study notes. Not a polished software portfolio, but a transparent log of progress.*
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=github_dark)
-
+<!-- Activity Graph — full width, visually striking -->
+<br/>
+<!-- Stats + Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=100rabh9s9&show_icons=true&theme=react&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true&hide=stars&hide_rank=false" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh9s9&layout=compact&theme=react&bg_color=0d1117&title_color=1E90FF&text_color=c9d1d9&hide_border=true" height="165"/>
+<br/><br/>
+<!-- Snake animation — commit history as a snake game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/100rabh9s9/100rabh9s9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/100rabh9s9/100rabh9s9/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/100rabh9s9/100rabh9s9/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
+
 
 ---
 
